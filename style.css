@@ -11,7 +11,7 @@ body {
 
 .card {
   background-color: hsl(216, 50%, 16%);
-  width: 350px;
+  width: 342px;
   margin: 100px auto;
   padding: 20px;
   border-radius: 15px;
@@ -19,7 +19,8 @@ body {
 
 .crypto-img {
   margin-bottom: 15px;
-  height: 350px;
+  height: 302px;
+  width: 302px;
   background: center url("./images/image-equilibrium.jpg");
   border-radius: 15px;
   background-size: cover;
@@ -55,13 +56,13 @@ p {
 }
 
 .crypto-description {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   font-weight: 400;
 }
 .price-info {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .price {
   color: hsl(178, 100%, 50%);
